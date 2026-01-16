@@ -34,7 +34,7 @@ delete from test2;
 
 desc test2;
 
--- 필드 구조변경(alter table 테이블명~~~)
+-- 필드 구조변경(alter table 테이블명~~~!!!!!!!!!!!!!!!)
 
 -- test2테이블에 job필드 추가(가변길이문자 10Byte) - add column
 alter table test2 add column job varchar(10);
