@@ -74,4 +74,5 @@ alter table test2 auto_increment = 15;
 
 -- 성명 '연습맨' 추가?
 insert into test2 (name) values ('연습맨');
+insert into test2 values (default,'연습맨2',39,'여자','청주');
 
